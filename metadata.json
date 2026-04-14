@@ -1,0 +1,6 @@
+{
+  "name": "Zet AI",
+  "description": "Advanced AI with emotion detection, perfect Uzbek voice conversation, and cultural digital aesthetics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
